@@ -20,7 +20,7 @@ The approach is methodical, building knowledge layer by layer:
 
 * **Current Phase:** Phase 1 - The Dual Foundation
 * **Currently Studying:**
-    * `[Book]` Structure and Interpretation of Computer Programs (SICP)
+    * `[Book]` Composing Programs
     * `[Book]` The Design of Everyday Things
 * **Last Updated:** August 12, 2025
 
